@@ -1,1 +1,1 @@
-
+This is a reflective report and data visualization of the Guardian League table analysis. This report shows 1. how University in UK are being ranked, 2.recommendation for future improvemnet and enhancements, 3. Challenges and limitations. The dataset which was obtained from the National Students Survey was analysed by The Guardian league table has 12 years work of guardian data (The Guardian, 2021). 
